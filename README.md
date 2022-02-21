@@ -13,7 +13,7 @@
 * Bootcamp da Digital Inovation One;
 * Course CSS e CSS3 Udemy;
 * Course em Video - Gustavo Guanabara;
-* Documentation JS- Mozilla;
+* Documentation - Mozilla;
 * Videos de Youtube;
 * Github.
 
